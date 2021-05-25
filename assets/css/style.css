@@ -52,7 +52,6 @@ video {
     border-radius: 20px;
     width: 860px;
     height: 40px;
-    border-radius: 5px;
     position: absolute;
     display: flex;
     flex-wrap: wrap;
@@ -177,7 +176,7 @@ footer{
     height: auto;
     width: 100vw;
     font-family: sans-serif;
-    padding-top: 40px;;
+    padding-top: 40px;
     
     
 }
